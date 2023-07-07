@@ -1,0 +1,10 @@
+example\person\PersonRepositoryImpl.class
+exercise\worker\Worker.class
+example\person\Person.class
+exercise\article\Article.class
+exercise\article\LibraryImpl.class
+example\ExampleController.class
+exercise\article\Library.class
+exercise\worker\WorkerImpl.class
+exercise\Main.class
+example\person\PersonRepository.class
